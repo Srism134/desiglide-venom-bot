@@ -11,10 +11,10 @@ This is an automation bot for sending scheduled messages to WhatsApp groups usin
 
 ##  Folder Structure
 desiglide-venom-bot/
-├── index.js # Bot logic
-├── tokens/ # Stores session data
-├── package.json # Dependencies
-└── node_modules/ # Installed packages
+- ├── index.js # Bot logic
+- ├── tokens/ # Stores session data
+- ├── package.json # Dependencies
+- └── node_modules/ # Installed packages
 
 ##  Setup Instructions
 
